@@ -14,3 +14,10 @@ This is python repo for the Diplomado 2024.
 3. The Smiths
 4. Taylor Swift
 5. Katy Perry
+
+## Movies
+1. Intensamente
+2. Harry Potter
+3. Fast and furious
+4. Titanic
+5. 17 otra vez
