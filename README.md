@@ -6,3 +6,4 @@ This is python repo for the Diplomado 2024.
 2. Raul Amao
 3. Fátima Trujillo
 4. Alejandra Navarro
+5. Leydi Gongora
