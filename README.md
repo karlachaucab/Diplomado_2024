@@ -21,3 +21,10 @@ This is python repo for the Diplomado 2024.
 3. Fast and furious
 4. Titanic
 5. 17 otra vez
+
+## Schools
+1. Primer Colegio Nacional de Nuestra Señora de Guadalupe
+2. Alfonso Ugarte
+3. San Agustín
+4. Mariano Melgar
+5. Rosa Santa María
